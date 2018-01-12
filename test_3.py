@@ -39,9 +39,7 @@ for i in range(nsteps):
         else:
             print "Rejected"
     b_curr.writexyz("run1")
-        
-
-b_curr.writexyz("first_frame")
+       
 
 
 
